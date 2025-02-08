@@ -1,0 +1,15 @@
+Registration successful for user: admin admin with username: admin
+This would be the confirmation email sent to: admin@yahoo.com
+
+Registration successful for user: admin admin with username: admin
+This would be the confirmation email sent to: admin@hoyoverse.mihoyo.com
+
+Registration successful for user: admin2 admin2 with username: admin2
+This would be the confirmation email sent to: admin2@hoyoverse.mihoyo.com
+
+Registration successful for user: admin admin with username: admin
+This would be the confirmation email sent to: admin@yahoo.hoyoverse.com
+
+Registration successful for user: admin2 admin2 admin2 with username: admin2
+This would be the confirmation email sent to: admin2@hoyoverse.com
+

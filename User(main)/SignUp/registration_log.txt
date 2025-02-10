@@ -1,0 +1,27 @@
+Registration successful for user: admin admin with username: admin
+This would be the confirmation email sent to: admin@yahoo.com
+
+Registration successful for user: admin admin with username: admin
+This would be the confirmation email sent to: admin@hoyoverse.mihoyo.com
+
+Registration successful for user: admin2 admin2 with username: admin2
+This would be the confirmation email sent to: admin2@hoyoverse.mihoyo.com
+
+Registration successful for user: admin admin with username: admin
+This would be the confirmation email sent to: admin@yahoo.hoyoverse.com
+
+Registration successful for user: admin2 admin2 admin2 with username: admin2
+This would be the confirmation email sent to: admin2@hoyoverse.com
+
+Registration successful for user: Manuel Ryan Tico Sarabia with username: Kiyunato
+This would be the confirmation email sent to: manuel@hoyoverse.com
+
+Registration successful for user: Manuel Mendoza Sarabia with username: Kiyu
+This would be the confirmation email sent to: Kiyu@hoyoverse.com
+
+Registration successful for user: Manuel Tico Sara with username: Kirito
+This would be the confirmation email sent to: manuel2@hoyoverse.com
+
+Registration successful for user: man ry sar with username: admin3
+This would be the confirmation email sent to: admin3@gmail.com
+
